@@ -8,5 +8,35 @@
 [📄 View the PDF](./Spec-5-Homelab-CLI-Style.pdf)
 
 
+##  PHYSICAL HOMELAB
 
+
+<p align="center">
+  <img src="" alt="Basic LAN Setup Topology"/>
+</p>
+
+
+
+##  VLAN Plan +  Topology Diagrams (Master + per-VLAN)
+
+
+
+<p align="center">
+  <img src="https://i.postimg.cc/0Q59zSwk/Topology-Diagrams-Master-per-VLAN-SPEC-2.png" alt="Basic LAN Setup Topology"/>
+</p>
+
+##   VLAN 10 (Management)
+
+
+
+<p align="center">
+  <img src="https://i.postimg.cc/MH7ktKRP/VLAN-10-Management-SPEC-2png.png" alt="Basic LAN Setup Topology"/>
+</p>
+
+##   VLAN 20 (Workstations)
+
+
+<p align="center">
+  <img src="https://i.postimg.cc/fbp6N0fq/VLAN-20-Workstations-SPEC-2.png" alt="Basic LAN Setup Topology"/>
+</p>
 
