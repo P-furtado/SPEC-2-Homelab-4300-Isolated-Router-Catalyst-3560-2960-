@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="" alt="Basic LAN Setup Topology"/>
+  <img src="https://i.postimg.cc/MHwpgcsp/Physical-Homelab.jpg" alt="Basic LAN Setup Topology"/>
 </p>
 
 
