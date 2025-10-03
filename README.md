@@ -22,21 +22,14 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/0Q59zSwk/Topology-Diagrams-Master-per-VLAN-SPEC-2.png" alt="Basic LAN Setup Topology"/>
+  <img src="https://i.postimg.cc/Hs5WtyDN/VLAN-Plan-Topology-Diagrams-Master-per-VLAN-updated.png" alt="Basic LAN Setup Topology"/>
 </p>
 
-##   VLAN 10 (Management)
+##   VLAN 10 (Management) + VLAN 20 (Workstations) Topology
 
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/MH7ktKRP/VLAN-10-Management-SPEC-2png.png" alt="Basic LAN Setup Topology"/>
-</p>
-
-##   VLAN 20 (Workstations)
-
-
-<p align="center">
-  <img src="https://i.postimg.cc/fbp6N0fq/VLAN-20-Workstations-SPEC-2.png" alt="Basic LAN Setup Topology"/>
+  <img src="https://i.postimg.cc/9M3JZKdX/VLAN-10-VLAN-20-Topology-updated.png" alt="Basic LAN Setup Topology"/>
 </p>
 
