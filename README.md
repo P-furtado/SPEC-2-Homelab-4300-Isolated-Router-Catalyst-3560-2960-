@@ -2,10 +2,9 @@
 ## README.md              
 [📄 View the full Spec-10 Lab Manual](Spec-5.md)
  ## Exported PDF version 
- # SPEC-2 PDF
-[📄 View the PDF](./Spec-2-With-Diagrams.pdf)
-# SPEC-5 PDF(MORE DETAIL FOR VLAN & TRUNK CONFIG
-[📄 View the PDF](./Spec-5-Homelab-CLI-Style.pdf)
+
+# SPEC-2025-LAB
+[📄 View the PDF](./SPEC-2025-LAB.pdf)
 
 
 ##  PHYSICAL HOMELAB
