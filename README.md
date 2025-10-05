@@ -1,6 +1,6 @@
 # SPEC-2-Homelab-4300-Isolated-Router-Catalyst-3560-2960-
 ## README.md              
-[📄 View the full Spec-10 Lab Manual](Spec-5.md)
+[📄 View the full Spec-10 Lab Manual](SPEC10-2025.md)
  ## Exported PDF version 
 
 # SPEC-2025-LAB
