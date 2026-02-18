@@ -9,11 +9,9 @@
 
 ##  PHYSICAL HOMELAB
 
-
 <p align="center">
-  <img src="https://i.postimg.cc/MHwpgcsp/Physical-Homelab.jpg" alt="Basic LAN Setup Topology"/>
+  <img src="https://i.postimg.cc/t4qvxQFG/lab-pic-rasberry-v1.jpg" alt="CCNA Two-Tier Home Lab Rack with Cisco 4331 Router, Catalyst 3560 Distribution Switch, and Catalyst 2960 Access Switch" width="650"/>
 </p>
-
 
 
 ##  VLAN Plan +  Topology Diagrams (Master + per-VLAN)
