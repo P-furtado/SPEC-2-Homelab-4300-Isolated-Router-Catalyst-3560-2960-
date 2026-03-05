@@ -6,6 +6,7 @@
 # SPEC-2025-LAB
 [📄 View the PDF](./SPEC-2025-LAB.pdf)
 
+[📄 View the PDF](./network-topology%20homelab-pdf.pdf)
 
 ##  PHYSICAL HOMELAB
 
