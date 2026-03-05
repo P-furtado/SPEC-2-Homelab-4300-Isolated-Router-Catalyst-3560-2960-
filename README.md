@@ -14,21 +14,6 @@
 </p>
 
 
-##  VLAN Plan +  Topology Diagrams (Master + per-VLAN)
-
-
-
-<p align="center">
-  <img src="https://i.postimg.cc/Hs5WtyDN/VLAN-Plan-Topology-Diagrams-Master-per-VLAN-updated.png" alt="Basic LAN Setup Topology"/>
-</p>
-
-##   VLAN 10 (Management) + VLAN 20 (Workstations) Topology
-
-
-
-<p align="center">
-  <img src="https://i.postimg.cc/9M3JZKdX/VLAN-10-VLAN-20-Topology-updated.png" alt="Basic LAN Setup Topology"/>
-</p>
 
 
 ## VLAN Plan + Topology Diagrams (Master + per-VLAN)
@@ -146,4 +131,18 @@ graph LR
 
 
 
+## IP Address & VLAN Plan
 
+| SEGMENT | SUBNET | DEVICE / INTERFACE | ADDRESS | ROLE |
+|---------|--------|--------------------|---------|------|
+| WAN | DHCP | ISR4331 Gi0/0/0 | Dynamic (ISP) | Internet uplink |
+| P2P Link | 192.168.30.0/30 | ISR4331 Gi0/0/1 | 192.168.30.1 | Router LAN port |
+| P2P Link | 192.168.30.0/30 | DIST-SW Gi0/1 (routed) | 192.168.30.2 | 3560 uplink |
+| VLAN 10 | 192.168.10.0/24 | DIST-SW Vlan10 SVI | 192.168.10.1 | Management |
+| VLAN 20 | 192.168.20.0/24 | DIST-SW Vlan20 SVI | 192.168.20.1 | Workstations GW |
+| VLAN 20 | 192.168.20.0/24 | PC1 (Win11) | 192.168.20.10 | Static / DHCP |
+| VLAN 20 | 192.168.20.0/24 | PC2 (Raspberry Pi) | 192.168.20.11 | Static / DHCP |
+
+---
+
+   
